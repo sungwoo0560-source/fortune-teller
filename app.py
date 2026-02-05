@@ -1,4 +1,4 @@
-port streamlit as st
+import streamlit as st
 import random
 from datetime import datetime
 from korean_lunar_calendar import KoreanLunarCalendar
@@ -239,3 +239,4 @@ def main():
             
             st.divider()
             st.success("본 보고서는 천기누설 대만신의 영적 알고리즘에 의해 작성되었습니다.")
+
