@@ -1,3 +1,4 @@
-streamlit
+pandasstreamlit
 pandas
-numpy
+korean_lunar_calendar
+
